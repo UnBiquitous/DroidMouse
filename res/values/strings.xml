@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   	<!-- Main Activity -->
+    <string name="app_name">Droid Mouse</string>
+    <string name="title_bar_icon_description">Title\'s bar icon.</string>
+    <string name="uos_ubiquitous_logo_description">uOS Ubiquitous logo.</string>
+
+</resources>
